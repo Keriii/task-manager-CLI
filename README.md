@@ -14,11 +14,7 @@ A simple command-line application to track and manage your tasks.
   - [Deleting Tasks](#deleting-tasks)
   - [Marking Tasks as In Progress or Done](#marking-tasks-as-in-progress-or-done)
   - [Listing Tasks](#listing-tasks)
-- [Task Properties](#task-properties)
-- [Examples](#examples)
-- [Error Handling](#error-handling)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
